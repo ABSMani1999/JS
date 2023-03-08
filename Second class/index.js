@@ -19,11 +19,6 @@ console.log(a-c*b);
 console.log(-a*c/b);
 console.log(a/b/c);
 
-
-
-
-
-
 //Arithemetic
 
 var a=10;
@@ -149,4 +144,4 @@ console.log(b);
 
 
 x=2; y=4; z=10;
-console.log(!(x>y) && !(z<x) && (y<z) ));
+console.log(!(x>y) && !(z<x) && (y<z));
